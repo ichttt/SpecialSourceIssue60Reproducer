@@ -1,0 +1,11 @@
+specialsourcetest/orig/BaseClass specialsourcetest/orig/BaseClass
+	init ()V func_1
+	lambda$init$0 (Lspecialsourcetest/orig/ThingyHolder;)V func_2
+	lambda$init$1 (Lspecialsourcetest/orig/ThingyHolder;)V func_3
+specialsourcetest/orig/IThingy specialsourcetest/orig/IThingy
+	doStuff (Lspecialsourcetest/orig/ThingyHolder;)V func_4
+specialsourcetest/orig/SuperClass specialsourcetest/orig/SuperClass
+	init ()V func_1
+	addThingy (Lspecialsourcetest/orig/ThingyHolder;)V func_5
+specialsourcetest/orig/ThingyHolder specialsourcetest/orig/ThingyHolder
+	someMethod (Ljava/lang/String;)V func_6
